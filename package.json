@@ -1,0 +1,24 @@
+{
+  "name": "lagi-kelas.ga",
+  "version": "0.1.0",
+  "description": "Pegumuman Jadwal TV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftis-admin/lagi-kelas.ga.git"
+  },
+  "author": "Gunawan Christianto <christianto.g.14@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftis-admin/lagi-kelas.ga/issues"
+  },
+  "homepage": "https://github.com/ftis-admin/lagi-kelas.ga#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "handlebars": "^4.0.10",
+    "jquery": "^3.2.1"
+  }
+}

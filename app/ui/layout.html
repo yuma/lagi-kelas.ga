@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{@page.title}}</title>
+        <link href="{{@BASE}}/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="{{@BASE}}/node_modules/bootstrap/dist/css/bootstrap-theme.min.css" rel="stylesheet">
+        <script src="{{@BASE}}/node_modules/jquery/dist/jquery.min.js"></script>
+        <script src="{{@BASE}}/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <include href="{{@page.location}}" if="{{isset(@page.location)}}" />
+    </body>
+</html>
