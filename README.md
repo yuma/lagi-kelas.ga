@@ -14,7 +14,7 @@ Punya pertanyaan / Usulan? Anda boleh membuat sebuah issue untuk itu.
 
 ## Memulai
 
-Setelah melakukan **Clone**, anda diharuskan untuk mendownload depedency dari project ini. Kami menggunakan 2 dependency manager yaitu `npm` dari Node.js dan `composer` dari PHP. Anda dapat menginstall **Node.js + NPM** dari sini, dan **Composer** [di sini](http://getcomposer.com).
+Setelah melakukan **Clone**, anda diharuskan untuk mendownload depedency dari project ini. Kami menggunakan 2 dependency manager yaitu `npm` dari Node.js dan `composer` dari PHP. Anda dapat menginstall **Node.js + NPM** dari [sini](https://nodejs.org/en/download/), dan **Composer** [di sini](https://getcomposer.org/download/).
 
 Execute Command dibawah ini (setelah Composer dan NPM tersedia.)
 
@@ -25,7 +25,7 @@ composer install
 
 Dan dependency terdownload, anda sekarang hanya perlu mengatur Web Engine (Nginx/Apache) anda agar project ini berjalan.
 
-Berikutnya anda perlu megatur settingan database anda. Anda dapat melakukannya di file `site.ini` di folder `app/config/`.
+**Berikutnya** anda perlu megatur settingan database anda. Anda dapat melakukannya di file `site.ini` di folder `app/config/`.
 
 - Pergi ke `app/config/`.
 
@@ -60,7 +60,7 @@ Berikutnya anda perlu megatur settingan database anda. Anda dapat melakukannya d
 - Selesai.
 
 
-## Credits License
+## Credits & License
 
 Siapapun boleh menggunakan repository ini diluar dari Lab Komputasi FTIS UNPAR. Project ini open source dan kami sampai saat ini masih belum menentukan license untuk project ini 😂😂.
 
