@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "9d172102f67664196a599d4f3e853cbe",
+    "content-hash": "949a26f8d0270d0f478cf2e692340ba1",
     "packages": [
         {
             "name": "bcosca/fatfree-core",
