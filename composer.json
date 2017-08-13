@@ -10,7 +10,8 @@
     ],
     "minimum-stability": "beta",
     "require": {
-        "bcosca/fatfree-core": "^3.6"
+        "bcosca/fatfree-core": "^3.6",
+        "ikkez/f3-cortex": "^1.5"
     },
     "config": {
         "vendor-dir": "app/vendor"
